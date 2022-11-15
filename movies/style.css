@@ -1,0 +1,119 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Work Sans', sans-serif;
+  background-image: url(./img/testimonials-bg.png);
+  background-position: center;
+  background-size: auto;
+}
+
+body {
+  display: flex;
+  flex-direction: row;
+}
+
+nav {
+  display: flex;
+  position: fixed;
+  flex-direction: column;
+  width: 250px;
+  height: 100vh;
+  background-color: #18234c;
+  text-align: center;
+  margin-right: 50px;
+}
+
+#logo {
+  display: flex;
+  position: fixed;
+}
+
+nav img {
+  width: 80px;
+}
+
+nav h1 {
+  width: 50px;
+  color: white;
+}
+
+nav a {
+  position: fixed;
+  font-size: 30px;
+  color: white;
+  text-decoration: none;
+}
+
+#inicio {
+  top: 200px;
+  left: 60px;
+}
+
+#peliculas {
+  top: 240px;
+  left: 60px;
+}
+
+#series {
+  top: 280px;
+  left: 60px;
+}
+
+#movies {
+  margin-left: 350px;
+}
+
+form {
+  margin-top: 40px;
+  text-align: center;
+  width: 70vw;
+  height: 50px;
+  background-color: #18234c;
+  padding-top: 15px;
+  border-radius: 10px;
+}
+
+#search {
+  width: 50vw;
+  height: 30px;
+  outline: none;
+  background-color: white;
+  text-align: center;
+  border: none;
+}
+
+#submit {
+  width: 120px;
+  height: 20px;
+  border: none;
+  background-color: transparent;
+  color: white;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 20px;
+}
+
+#contenedor-cartas {
+  margin: 20px;
+  margin-top: 50px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-auto-rows: auto;
+  gap: 20px;
+}
+
+.carta {
+  display: flex;
+  flex-direction: column;
+  width: 210px;
+  height: 500px;
+  text-align: center;
+  background-color: #18234c;
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+}
+
+.carta img {
+  min-height: 350px;
+}

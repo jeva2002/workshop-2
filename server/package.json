@@ -1,0 +1,18 @@
+{
+  "name": "movies-server",
+  "version": "1.0.0",
+  "description": "JSON server para un cliente de películas",
+  "main": "index.js",
+  "scripts": {
+    "server" : "json-server --watch db.json"
+  },
+  "keywords": [
+    "JSON",
+    "server",
+    "fake",
+    "API",
+    "Rest"
+  ],
+  "author": "Juan Villegas y Sergio Lara",
+  "license": "MIT"
+}

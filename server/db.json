@@ -1,0 +1,144 @@
+{
+    "peliculas": [
+        {
+            "nombrePelicula": "EL CABALLERO VERDE",
+            "image":"https://es.web.img2.acsta.net/pictures/21/06/15/19/15/0165525.jpg",
+            "puntaje": 8,
+            "genero": "AVENTURA",
+            "año": 2011
+        },
+        {
+            "nombrePelicula": "REMINISCENCIA",
+            "image": "https://pics.filmaffinity.com/Reminiscencia-936545100-large.jpg",
+            "puntaje": 10,
+            "genero": "ACCION",
+            "año": 2020
+        },
+        {
+            "nombrePelicula": "DESPIERTA LA FURIA",
+            "image":"https://pics.filmaffinity.com/Despierta_la_furia-848619608-large.jpg",
+            "puntaje": 6,
+            "genero": "SUSPENSO",
+            "año": 2015
+        },
+        {
+            "nombrePelicula": "UN EFECTO OPTICO" ,
+            "image":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/un-efecto-optico-cartel-1616658235.jpg?resize=320:*",
+            "puntaje": 10,
+            "genero": "COMEDIA" ,
+            "año": 2013
+        },
+        {
+            "nombrePelicula": "OPERACION CAMARON",
+            "image": "https://pics.filmaffinity.com/Operaci_n_Camar_n-480089729-large.jpg",
+            "puntaje": 3,
+            "genero":"COMEDIA",
+            "año": 2000
+        },
+        {
+            "nombrePelicula":"A TODO TREN" ,
+            "image":"https://pics.filmaffinity.com/A_todo_tren_Destino_Asturias-707799540-large.jpg",
+            "puntaje": 4,
+            "genero":"CIENCIA FICCION" ,
+            "año":2015
+        },
+        {
+            "nombrePelicula":"ETERNALS" ,
+            "image":"https://lumiere-a.akamaihd.net/v1/images/eternals_ka_pay1_las_mi_affe3bf6.png" ,
+            "puntaje":8,
+            "genero":"CIENCIA FICCION" ,
+            "año":2022 
+        },
+        {
+            "nombrePelicula":"FAST AND FURIOUS 9",
+            "image":"https://pics.filmaffinity.com/Fast_Furious_9-833854731-large.jpg" ,
+            "puntaje": 10,
+            "genero": "ACCION",
+            "año": 2019
+        },
+        {
+            "nombrePelicula":"EL REY DE ZAMUNDA" ,
+            "image": "https://pics.filmaffinity.com/El_Rey_de_Zamunda-750355750-large.jpg",
+            "puntaje":2 ,
+            "genero":"CIENCIA FICCION" ,
+            "año": 2015
+        },
+        {
+            "nombrePelicula":"VENOM:HABRA MATANZA",
+            "image":"https://pics.filmaffinity.com/Venom_Habr_matanza-945754232-large.jpg",
+            "puntaje": 9,
+            "genero": "ACCION",
+            "año": 2022
+        },
+        {
+            "nombrePelicula":"ANIMALES NOCTURNOS" ,
+            "image": "https://1.bp.blogspot.com/-5JM33z_e4Eg/WFqMamMwRoI/AAAAAAAAZRY/OwXossGiYvQvo5dyB6mw0gpXt5946JSwwCLcB/s400/Animales%2BNocturnos_el%2Bvuelo%2Bdel%2Byobirou.jpg",
+            "puntaje": 10,
+            "genero": "PASION",
+            "año":2019 
+        },
+        {
+            "nombrePelicula":"PATERSON" ,
+            "image": "https://1.bp.blogspot.com/-KtToRhonj6w/WGASBeMAG7I/AAAAAAAAZWQ/6DZ0hY1vqrwiXVVFHea-Io7K8zWul5_nACEw/s400/Paterson%2B-%2Bel%2Bvuelo%2Bdel%2Byobirou.jpg",
+            "puntaje": 10,
+            "genero": "PASION",
+            "año": 2015
+        },
+        {
+            "nombrePelicula":"QUE DIOS NOS PERDONE" ,
+            "image": "https://3.bp.blogspot.com/-8H8gfG7gQCI/WFqbSHf0qiI/AAAAAAAAZR8/OMwBDXPp5sE8G9_5zp297xIt0KH2R4X8wCLcB/s400/Que%2BDios%2Bnos%2Bperdone%2B-%2Bel%2Bvuelo%2Bdel%2Byobirou.jpg",
+            "puntaje":3 ,
+            "genero":"SUSPENSO" ,
+            "año": 2014
+        },
+        {
+            "nombrePelicula":"KUBO Y LAS DOS CUERDAS MAGICAS" ,
+            "image": "https://1.bp.blogspot.com/-69nRAinMji8/WFqcorzTFvI/AAAAAAAAZSI/zn7bnXqpSLYzNEc9O6SXm4kAl2o2anNHgCLcB/s400/kubo_and_the_two_strings-el%2Bvuelo%2Bdel%2Byobirou.jpg",
+            "puntaje": 5,
+            "genero":"CARICATURA" ,
+            "año": 2022
+        },
+        {
+            "nombrePelicula":"CAPTAIN FANSTASTIC" ,
+            "image": "https://4.bp.blogspot.com/-k_3lhYJK3Lw/WFqePAUH1hI/AAAAAAAAZSU/RPjKhJ8blHMu5eS62ljKb_NdXQztkQQdACLcB/s400/cartel-captain-fantastic-el%2Bvuelo%2Bdel%2Byobirou.jpg",
+            "puntaje":8 ,
+            "genero": "AVENTURA",
+            "año": 2018
+        },
+        {
+            "nombrePelicula":"LA LLEGADA" ,
+            "image": "https://1.bp.blogspot.com/-ZW_Uupb9gXA/WFqf2mZMJvI/AAAAAAAAZSg/EHs-VU5RQhUjobCJiDvy1WLws_hCCv_0ACLcB/s400/La%2BLlegada%2B-%2Bel%2Bvuelo%2Bdel%2Byobirou.jpg",
+            "puntaje": 3,
+            "genero": "CIENCIA FICCION",
+            "año": 2022
+        },
+        {
+            "nombrePelicula":"ROGUE ONE:UNA HISTORIA DE STAR WARS" ,
+            "image": "https://2.bp.blogspot.com/-ZFExZbovnPU/WFqhP1vgpuI/AAAAAAAAZSs/GVs6teuLIBce2sj-FHg8csNKsByXEcJzgCLcB/s400/Star%2BWars%2BRogue%2BOne%2B-%2Bel%2Bvuelo%2Bdel%2Byobirou.jpg",
+            "puntaje": 10,
+            "genero": "ACCION",
+            "año": 2021
+        },
+        {
+            "nombrePelicula":"DOCTOR STRANGE" ,
+            "image": "https://4.bp.blogspot.com/-NxVceVTP0V8/WFqizg-LmKI/AAAAAAAAZS4/2cnODgXKxr890msPWcrcg4ECNDWfQ0MYACLcB/s400/Doctor%2BStrange%2B-%2Bel%2Bvuelo%2Bdel%2Byobirou.jpg",
+            "puntaje": 6,
+            "genero": "CIENCIA FICCION",
+            "año": 2016
+        },
+        {
+            "nombrePelicula": "TARDE PARA LA IRA ",
+            "image": "https://2.bp.blogspot.com/-0XsesoAQoww/WFqlPKjJSzI/AAAAAAAAZTE/u5eAALoitlQ7qz7fLCveq7RKTj_K7JvlQCLcB/s400/Tarde%2Bpara%2Bla%2Bira%2B-%2Bel%2Bvuelo%2Bdel%2Byobirou.jpg",
+            "puntaje": 7,
+            "genero": "ACCION",
+            "año": 2021
+        },
+        {
+            "nombrePelicula":"HASTA EL ULTIMO HOMBRE" ,
+            "image": "https://3.bp.blogspot.com/-O85Qbty6AAU/WFqm-U5Sd6I/AAAAAAAAZTQ/vkDP7u3GqM4DJZLRuhcJBnWLpzoRAHNAQCLcB/s400/hasta%2Bel%2B%25C3%25BAltimo%2Bhombre%2B-%2Bel%2Bvuelo%2Bdel%2Byobirou.jpg",
+            "puntaje": 10,
+            "genero": "ACCION",
+            "año": 2020
+        }
+    ]
+}
